@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION;TYPE=WORK:3.0
+PROFILE:VCARD
+URL;VALUE=URI:https://opencollective.com
+N;CHARSET=UTF-8:Pia Mancini;;;;
+FN;CHARSET=UTF-8:Pia Mancini
+ORG;CHARSET=UTF-8:OpenCollective
+EMAIL:ops@opencollective.com
+ADR;CHARSET=UTF-8:;;440 N. Barranca Ave\, #3717,;Covina;CA;91723;USA
+END:VCARD
